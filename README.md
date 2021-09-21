@@ -1,5 +1,10 @@
 # Cradle Of Civilizations
 
+Turn Based Civilization Simulator 
+Grow your population as you manage a variety of resources and encounter different events.
+Members of your civilization can have different classes.
+DecToHex Function provided by my teacher, Mr. Schattman 
+Lost picture files when exporting from expired school google drive. Will try to remake when I find the time.
 
 Instructions: 
 
